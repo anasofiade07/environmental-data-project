@@ -64,3 +64,11 @@ footer {
 @media screen and (max-width: 768px) {
     /* Add responsive styles here */
 }
+
+
+iframe{
+    width: 100%;
+   color: pink;
+    height: 500px; /* Adjust the height as needed */
+    border: none; /* Remove border */
+}
