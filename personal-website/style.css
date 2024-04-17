@@ -72,3 +72,11 @@ iframe{
     height: 500px; /* Adjust the height as needed */
     border: none; /* Remove border */
 }
+
+.chart-container {
+    width: 50%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+}
