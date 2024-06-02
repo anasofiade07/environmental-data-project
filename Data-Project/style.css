@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chart-container {
+    width: 50%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 5;
+    text-align: center;
+    margin-bottom: 5;
+    font-weight: bold;
+   color: Purple;
+  
+}
+
+p, h1{
+    margin-bottom: 0;
+    text-align: center;
+    color: pink;
+  
+}
+
+.chart-description {
+    margin-top: 10px;
+}
+
+iframe{
+    width: 100%;
+   color: pink;
+    height: 500px; /* Adjust the height as needed */
+    border: none; /* Remove border */
+}
