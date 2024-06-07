@@ -74,4 +74,10 @@ img {
     display: block;
     margin: 20px 0;
   }
+
+  .embedded-website {
+    width: 60%;
+    height: 500px; /* Adjust the height as needed */
+    border: none; /* Remove border */
+}
   
